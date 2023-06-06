@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="./css/all.css">
+    <style>
+       body{
+        background-color: blueviolet;
+       }
+        .form{
+            padding-left: 270px;
+        }
+
+        button{
+            border-radius: px solid grey;
+            transition: 2s ;
+        button:hover{
+            color: aqua;
+
+        }
+        p{
+            text-align: center;
+        }
+    </style>
+</head>
+<body > 
+    <h1 align="center"> <i class="fa-brands fa-twitter fa-beat"></i>
+        Twitter Login </h1>
+        <form class="form" id="login">
+        <i class="fa-brands fa-google fa-beat"> Sign in with Google</i><br> <br>
+    <i class="fa-brands fa-apple fa-shake"> Sign in with Apple </i> <br> <br>
+    
+    
+        
+<input type="text" placeholder="USERNAME OR EMAIL"><br><br>
+<input type="text" placeholder="PASSWORD"><br><br>
+<p>Forgot Password</p>
+<button>Sign in</button>                                                             
+</form>
+<!D
+   
+</body>
+</html>
